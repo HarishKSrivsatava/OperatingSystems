@@ -2,7 +2,6 @@ package com.harish.operating.system.Multithreading.NaturalNumberSummation;
 
 import java.lang.Runnable;
 import java.lang.Thread;
-
 public class SummationDriver {
 	public static void main(String[] args) {
 		if(args.length < 0){
